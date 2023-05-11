@@ -54,8 +54,8 @@
     "test": "jest test/**/*.test.js"
   },
   "dependencies": {
-    "@babel/core": "^7.20.2",
-    "@babel/preset-env": "^7.20.2",
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
     "@ndelangen/get-tarball": "^3.0.7",
     "@storybook/codemod": "7.1.0-alpha.15",
     "@storybook/core-common": "7.1.0-alpha.15",

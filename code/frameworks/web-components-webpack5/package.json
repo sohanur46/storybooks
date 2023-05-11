@@ -50,7 +50,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-env": "^7.21.5",
     "@storybook/builder-webpack5": "7.1.0-alpha.15",
     "@storybook/core-common": "7.1.0-alpha.15",
     "@storybook/preset-web-components-webpack": "7.1.0-alpha.15",
